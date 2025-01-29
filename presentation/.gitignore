@@ -1,0 +1,13 @@
+# Android 관련 파일 무시
+/.gradle/
+/.idea/
+/build/
+/*.iml
+
+# 환경 설정 및 보안 파일 무시
+/local.properties
+/.env
+
+# OS별 불필요한 파일
+.DS_Store
+Thumbs.db
